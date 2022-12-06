@@ -31,7 +31,8 @@ virtual environnment.
 Note : The API is under a .zip file because the model take too much memory for GitHub(26Mo).
 Main Documentation for the API : https://towardsdatascience.com/productionize-a-machine-learning-model-with-a-django-api-c774cb47698c
 
-############################  Conclusion   ############################ 
+############################  Conclusion   ###########################
+
 Thnaks to this work, we learned to work in group on a very specific issue, train and 
 deploy a model in a virtual environnment. Even if, we cleary found that family inheritance is one major factor of Obesity, 
 our Conclusions are that is difficult to assess the real causes of Obesity.
